@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unsaidernie
-- 👀 I’m interested in Coding, School, sports
+- 👀 I’m interested in Coding, Sports, Music, TV % Movies
 - 🌱 I’m currently learning Pyhton, HTML, CSS
-- 📫 How to reach me by email
+- 📫 you can reach me at ernesto.castaneda.3rd@gmail.com
 :)
 
 <!---
